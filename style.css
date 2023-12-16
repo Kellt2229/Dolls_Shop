@@ -1,0 +1,19 @@
+body{
+  background-color:pink;
+}
+h1{
+  color:bleak;
+  text-align:center;
+}
+p{
+  color:bleak
+}
+.box1{
+  bakground-color:darkgray;
+  width:100%
+}
+.toy_img{
+ width:33%;
+ height:400px;
+ border-radius:15px; 
+}
